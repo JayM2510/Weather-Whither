@@ -27,4 +27,11 @@ The API also provides current and historical air pollution data such as carbon m
 Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 ![image](https://user-images.githubusercontent.com/111730373/201734363-2e0977c1-cb50-4669-820a-bab50bafab7f.png)
 
+## 🔎Resources :
+- [Python Official Docs](https://www.python.org/doc/)
+- [Python GUI Programming Tkinter Docs](https://www.tutorialspoint.com/python3/python_gui_programming.htm)
+- [OpeWeatherApp API](https://openweathermap.org/api)
+- [Code Help](https://www.askpython.com/python/examples/gui-weather-app-in-python)
+
+
 
