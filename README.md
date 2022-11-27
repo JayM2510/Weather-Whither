@@ -11,7 +11,7 @@ With Weather apps for iOS and Android, people can exactly know when to expect a 
 <h3> Screenshots- </h3>
 
 
-|             Local Cities Weather               |                Golbal Cities Weather            |               Invalid City Names              | 
+|             Local Cities Weather               |                Global Cities Weather            |               Invalid City Names              | 
 | :--------------------------------:       | :---------------------------------------: | :---------------------------------------: |
 |  ![image](https://user-images.githubusercontent.com/111730373/201734759-7df056b8-5238-4f54-b1d6-ddd4b17a8696.png)  | ![image](https://user-images.githubusercontent.com/111730373/201734771-2bc46616-dbb3-4a54-a963-440def73548a.png)  | ![image](https://user-images.githubusercontent.com/111730373/201734787-fe7a4414-0163-4901-aece-ca18a25282a4.png)      |
 
